@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_question_types_true_falses",
+  "info": {
+    "displayName": "True/False",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "explanation": {
+      "type": "text"
+    },
+    "a": {
+      "type": "string",
+      "default": "Vrai",
+      "unique": true
+    },
+    "b": {
+      "type": "string",
+      "unique": true,
+      "default": "Faux"
+    },
+    "answer": {
+      "type": "enumeration",
+      "enum": [
+        "Vrai",
+        "Faux"
+      ]
+    }
+  }
+}

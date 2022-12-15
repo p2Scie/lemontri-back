@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_question_types_multiple_choices",
+  "info": {
+    "displayName": "multiple choice",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "a": {
+      "type": "string"
+    },
+    "b": {
+      "type": "string"
+    },
+    "c": {
+      "type": "string"
+    },
+    "d": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "string"
+    },
+    "explanation": {
+      "type": "text"
+    }
+  }
+}

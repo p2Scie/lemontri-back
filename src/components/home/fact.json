@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_home_facts",
+  "info": {
+    "displayName": "fact",
+    "icon": "atom"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Le saviez-vous ?"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
