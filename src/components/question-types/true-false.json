@@ -15,11 +15,11 @@
     "a": {
       "type": "string",
       "default": "Vrai",
-      "unique": true
+      "unique": false
     },
     "b": {
       "type": "string",
-      "unique": true,
+      "unique": false,
       "default": "Faux"
     },
     "answer": {
